@@ -1,4 +1,4 @@
-#Wed Mar 08 21:44:23 EET 2023
+#Thu Mar 09 20:22:52 EET 2023
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\dao\\MovieDao.java=1678304583320
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\service\\mapper\\MovieSessionMapper.java=1678304534401
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\service\\mapper\\OrderMapper.java=1678304532923
@@ -34,11 +34,11 @@ C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\dao\\imp
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\model\\MovieSession.java=1678304533363
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\config\\WebConfig.java=1678304583507
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\controller\\ShoppingCartController.java=1678304533809
-C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\config\\DataInitializer.java=1678304583243
+C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\config\\DataInitializer.java=1678362472161
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\service\\mapper\\MovieMapper.java=1678304532997
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\controller\\OrderController.java=1678304582919
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\controller\\AuthenticationController.java=1678304582952
-C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\resources\\db.properties=1678301117698
+C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\resources\\db.properties=1678385909880
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\dao\\impl\\CinemaHallDaoImpl.java=1678304533983
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\util\\DateTimePatternUtil.java=1678304533503
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\service\\impl\\RoleServiceImpl.java=1678304533323
@@ -78,6 +78,6 @@ C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\lib\\Fie
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\service\\impl\\MovieServiceImpl.java=1678304583571
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\lib\\ValidEmail.java=1678304532264
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\model\\User.java=1678304534097
-C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\security\\CustomUserDetailsService.java=1678304646493
+C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\security\\CustomUserDetailsService.java=1678361354972
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\service\\ShoppingCartService.java=1678304534461
 C\:\\Users\\Upgrade\\IdeaProjects\\Cinema-app\\src\\main\\java\\cinema\\config\\SecurityInitializer.java=1678304532522
